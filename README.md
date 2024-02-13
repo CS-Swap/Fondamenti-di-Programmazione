@@ -13,7 +13,7 @@
 ---
 ## Esami (soluzioni)
 **2023:**
-- [Esame 1 (2023)](/Esami/2023/Esame%201%20(2023).md)
+- [Esame 1 (2023)]([/Esami/2023/Esame%201%20(2023).md](https://github.com/CS-Swap/Fondamenti-di-Programmazione/issues/1))
 - [Esame 2 (2023)](/Esami/2023/Esame%202%20(2023).md)
 - [Esame 3 (2023)](/Esami/2023/Esame%203%20(2023).md)
 - [Esame 4 (2023)](/Esami/2023/Esame%204%20(2023).md)
