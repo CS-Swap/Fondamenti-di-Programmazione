@@ -35,7 +35,7 @@
 - [Esame 7 (2021)](/Esami/2021/Esame%207%20(2021).md)
 
 ---
-## Esercizzi
+## Esercizi
 -- 🚧 Work in progress 🚧 --
 
 ---
